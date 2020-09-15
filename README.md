@@ -1,1 +1,1 @@
-# 30-day-cade-python-solution
+# 30-day-code-python-solution
